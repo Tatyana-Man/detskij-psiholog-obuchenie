@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://detskij-psiholog-obuchenie.vercel.app/sitemap.xml
